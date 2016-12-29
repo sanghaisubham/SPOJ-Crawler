@@ -13,25 +13,26 @@ This Software crawls through the Spoj Website to extract various Important Data 
      
 2)Ranking and Status of Code including:
 
-   a)Count of Accepted Solution
+    a)Count of Accepted Solution
    
-   b)Count of Submissions
+    b)Count of Submissions
    
-   c)Count of WA
+    c)Count of WA
    
-   d)Count of TLE
+    d)Count of TLE
    
-   e)Count of CE
+    e)Count of CE
    
-   f)Count of RTE
+    f)Count of RTE
    
-   g)Best Solution Details
+    g)Best Solution Details
    
    
- 3)Status of the User 
-    a)If Accepted, then the details of the Accepted Solution
+ 3)Status of the User :
+ 
+     a)If Accepted, then the details of the Accepted Solution
     
-    b)If Not Accepted then the Penalties in a definite order
+     b)If Not Accepted then the Penalties in a definite order
     
     
 Input: The User Needs to Input Three Things including:
